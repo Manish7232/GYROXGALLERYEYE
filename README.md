@@ -24,7 +24,7 @@ Download Sms Eye APK file, you can download file from this repository or downloa
 
 #### 2 - Downlaod Apk Editor
 
-Download the APK Editor to customize the Sms Eye application, you can download Apk Editor from our [Telegram channel](https://t.me/AbyssalArmy).
+Download the APK Editor to customize the Sms Eye application, you can download Apk Editor from our [Telegram channel](https://t.me/gyroxbgmistore).
 
 #### 3 - Create Telegram bot
 
